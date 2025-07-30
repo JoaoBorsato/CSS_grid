@@ -61,28 +61,28 @@
         grid-template-columns: 1fr 2fr .5fr .5fr .5fr;
     }
 
-    .cabecalho__logo{
+    .cabecalho__logo {
         grid-area: logo;
         justify-self: center;
     }
 
-    .cabecalho__nav_list_item-sobre{
+    .cabecalho__nav_list_item-sobre {
         grid-area: sobre;
     }
 
-    .cabecalho__nav_list_item-login{
+    .cabecalho__nav_list_item-login {
         grid-area: login;
     }
 
-    .cabecalho__nav_list_item-perfil{
+    .cabecalho__nav_list_item-perfil {
         grid-area: perfil;
     }
 
-    .cabecalho__nav_list_item-carrinho{
+    .cabecalho__nav_list_item-carrinho {
         grid-area: carrinho;
     }
-    
-    .cabecalho__nav_list_item-input{
+
+    .cabecalho__nav_list_item-input {
         grid-area: input;
     }
 }
